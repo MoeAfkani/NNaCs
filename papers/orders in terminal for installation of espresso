@@ -1,0 +1,47 @@
+
+sudo apt-get update;sudo apt-get upgrade
+
+sudo apt-get -y install gcc g++ gfortran
+
+;sudo apt-get -y install patch
+
+;sudo apt-get -y install libnetcdf-dev
+
+;sudo apt-get -y install libfftw3-dev
+
+;sudo apt-get -y install libatlas-base-dev
+
+;sudo apt-get -y install liblapack-dev
+
+;sudo apt-get -y install libblas-dev
+
+;sudo apt-get -y install openmpi-bin openmpi-common libopenmpi-dev
+
+;sudo apt-get -y install csh 
+ 
+;sudo apt-get -y install g++ 
+ 
+;sudo apt-get -y install gcc++ 
+ 
+;sudo apt-get -y install gcc 
+ 
+;sudo apt-get -y install libstdc++6 
+ 
+;sudo apt-get -y install gnuplot 
+ 
+;sudo apt-get -y install tcl 
+ 
+;sudo apt-get -y install tk 
+ 
+;sudo apt-get -y install gfortran 
+ 
+;sudo apt-get -y install emacs 
+ 
+;sudo apt-get -y install ghostscript 
+ 
+********************************************
+~/qe.6.1$ ./configure
+~/qe.6.1$ make all
+********************************************
+
+
